@@ -9,7 +9,7 @@ app.get('/api/inky',(req,res)=>{
     res.send({message:"Inky Pinky Ponky "})
 })
 
-app.get('/api/dildo',(req,res)=>{
+app.get('/api',(req,res)=>{
     res.send({message:"Dildo Pagal hai - Dildo deewana hai "})
 })
 
